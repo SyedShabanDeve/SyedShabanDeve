@@ -59,7 +59,7 @@ Repositories I own, with the full source published — the code is there to be r
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[Catchy Storefront](https://github.com/SyedShabanDeve/catchy-storefront)** | E-commerce storefront with a variant-aware persistent cart, nested category routing, checkout flow, and a homepage content admin panel | React 19 · Router 7 · Context · Tailwind |
+| **[Catchy Storefront](https://github.com/SyedShabanDeve/catchy-storefront)** — [live demo](https://syedshabandeve.github.io/catchy-storefront/) | E-commerce storefront with a variant-aware persistent cart, nested category routing, checkout flow, and a homepage content admin panel | React 19 · Router 7 · Context · Tailwind |
 | **[Sani Corporate Website](https://github.com/SyedShabanDeve/sani-corporate-website)** | Seven-page corporate site; every inner page lazy-loaded into its own chunk, with hash-aware scroll restoration | React 19 · Router 7 · Code splitting |
 | **[Directory Landing Redesign](https://github.com/SyedShabanDeve/directory-landing-redesign)** | Landing page redesign for a business directory — composite search bar, staggered motion, mobile-first layout | React 18 · Framer Motion · Tailwind |
 | **[Portfolio](https://github.com/SyedShabanDeve/portfolio)** | This developer portfolio — hand-built, accessible, SEO and social-card ready | React 19 · Vite 8 |
