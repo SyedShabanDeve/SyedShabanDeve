@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ssa-g" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#7c5cff"/>
+    </linearGradient>
+  </defs>
+  
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52.78 20.00 L41.09 26.75 M32.00 8.00 L32.00 21.50 M11.22 20.00 L22.91 26.75 M11.22 44.00 L22.91 37.25 M32.00 56.00 L32.00 42.50 M52.78 44.00 L41.09 37.25" stroke="currentColor" stroke-opacity=".16" stroke-width="1.1"/>
+    <path d="M41.09 26.75 L32.00 21.50 L22.91 26.75 L22.91 37.25 L32.00 42.50 L41.09 37.25 Z" stroke="currentColor" stroke-opacity=".3" stroke-width="1.3"/>
+    <path d="M52.78 20.00 L52.78 44.00 M11.22 20.00 L11.22 44.00" stroke="currentColor" stroke-opacity=".28" stroke-width="2"/>
+    <path d="M52.78 20.00 L32.00 8.00 L11.22 20.00 L52.78 44.00 L32.00 56.00 L11.22 44.00" stroke="url(#ssa-g)" stroke-width="6.4"/>
+  </g>
+</svg>
