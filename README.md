@@ -69,7 +69,7 @@ I build web applications and client websites, mostly in React, Node and Express 
 | **[Catchy Storefront](https://github.com/SyedShabanDeve/catchy-storefront)** · [live demo](https://syedshabandeve.github.io/catchy-storefront/) | Storefront with a variant-aware persistent cart, nested category routing, checkout and a homepage admin panel | React 19 · Router · Context · Tailwind |
 | **[Sani Corporate Website](https://github.com/SyedShabanDeve/sani-corporate-website)** | Seven-page corporate site, every inner page lazy-loaded into its own chunk, with hash-aware scroll restoration | React 19 · Code splitting · Netlify |
 | **[Directory Landing Redesign](https://github.com/SyedShabanDeve/directory-landing-redesign)** | Landing page redesign for a business directory: composite search bar, staggered motion, mobile-first | React · Framer Motion · Tailwind |
-| **[FOLD&CARRY](https://github.com/SyedShabanDeve/foldandcarry)** | Storefront for a slim-wallet brand with WhatsApp ordering and cash on delivery across Pakistan | JavaScript · HTML · CSS |
+| **[Style & Carry](https://styleandcarry.netlify.app/)** · [code](https://github.com/SyedShabanDeve/foldandcarry) | Online store for wallets, watches and bags in Pakistan: search, order tracking, wishlist, cash on delivery and WhatsApp ordering | JavaScript · Netlify |
 | **[Portfolio](https://github.com/SyedShabanDeve/portfolio)** · [live](https://syedshabandeve.github.io/portfolio/) | A tesseract rotating in four dimensions and projected into 3D in real time, with four colour themes | React · three.js · GSAP · GLSL |
 
 ### Get in touch
